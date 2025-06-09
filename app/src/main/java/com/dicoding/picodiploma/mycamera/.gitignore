@@ -1,0 +1,54 @@
+gitignore
+            # Built application files
+            *.apk
+            *.aab
+            *.ap_
+
+            # Files for the ART/Dalvik VM
+            *.dex
+
+            # Java class files
+            *.class
+
+            # Generated files
+            bin/
+            gen/
+            out/
+
+            # Gradle files
+            .gradle/
+            build/
+
+            # Local configuration files (sdk path, etc)
+            local.properties
+            .idea/workspace.xml
+            .idea/libraries/
+            .idea/modules.xml # Re-generate if necessary
+            .idea/navEditor.xml
+            .idea/assetWizardSettings.xml
+
+            # Android Studio Navigation editor files
+            .navigation/
+
+            # Android Studio Profiler data files
+            captures/
+            .externalNativeBuild/
+
+            # Keystore files
+            *.jks
+            *.keystore
+
+            # External native build folder generated in Android Studio 2.2 and later
+            .cxx/
+
+            # Log files
+            *.log
+
+            # Android Studio vcs.xml file (stores Git configuration)
+            .idea/vcs.xml
+
+            # Misc
+            .DS_Store
+            Thumbs.db
+            *~
+            *.swp
